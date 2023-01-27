@@ -11,4 +11,4 @@ AdGuard pour Android est une application de blocage de publicités pour les appa
 - 🛡️ Protège la vie privée
 - 🚀 Navigation plus rapide et plus fluide.
 
-AdGuard pour Android est l'une des meilleures options disponibles sur le marché pour bloquer les publicités sur les appareils Android.
+Avec AdGuard pour Android, bloquez jusqu'à 100% des publicités sur votre smartphone. 
